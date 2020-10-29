@@ -1,0 +1,34 @@
+ 8 u 2 6 7 q r 9
+
+
+
+7-	->muito inicio, resto pouco(1 pico)
+	|pouco todo lado(0 picos)
+
+q-	->+- ate metade, resto pouco (2 +- picos)
+	|+- todo lado, fim muito (1 pico,1 +- pico)
+
+
+9-	->+- ate metada,meio pouco, fim +- (1 pico,2 +- pico)
+	|+-+ todo lado, +-+ fim (2 +- pico)
+
+
+r-	->muito inicio, pouco resto(1 pico)
+	|muito inicio. resto pouco (1 pico)
+
+
+6-	->inicio +-,meio pouco,depois de metade -+ (1 pico,2 +- pico)
+	|+-+ inicio, +- todo lado(2 +- pico)
+
+8	->+- todo lado (td +- pico)
+	|+- todo lado (td +-pico)
+
+
+u	->-+todo lado,fim muito(1 pico)
+	| inicio muito, meio pouco, fim muito (2 picos)
+
+
+
+2-	->+- inicio, pouco meio, muito fim(1 pico,1 +- pico)
+	|+-+ todo lado (+- pico todo lado)
+
